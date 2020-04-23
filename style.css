@@ -1,0 +1,8 @@
+.navbar {
+	background: rgb(254,254,254);
+	background: linear-gradient(274deg, rgba(254,254,254,0) 0%, rgba(169,226,130,1) 35%, rgba(50,167,194,1) 100%); 
+}
+
+a {
+	color: white;
+}
