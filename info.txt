@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: CooperHewitt-Bold
+font link: https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/
+font author: Chester Jenkins
+font author site: https://vllg.com/
+
+
+icon designer: mikicon
+icon designer link: /mikicon
+        
+{"bg-gradient-0":"#01648B","bg-gradient-1":"#5BD0A4","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
